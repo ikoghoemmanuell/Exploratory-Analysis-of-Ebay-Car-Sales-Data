@@ -15,7 +15,7 @@ For this project, we will be doing an exploratory data analysis on a dataset tha
 
 ## 📁 Dataset
 
-Public data set can be found here: https://github.com/ikoghoemmanuell/Indian-Startup-Funding-Analysis-Group-Nice/blob/main/India%20Startup%20Funding.zip
+Public data set can be found here: https://github.com/ikoghoemmanuell/Exploratory-Analysis-of-Ebay-Car-Sales-Data/blob/main/auto.csv
 
 ## 🛠️ Requirement
 
@@ -25,12 +25,6 @@ numpy
 seaborn
 pandas
 ```
-
-## 📊 Data Visualization
-
-- ### **Basic Analysis**
-
-<img src="IMG/s_involve" width="30%">
 
 ## ✨ Contribution
 
